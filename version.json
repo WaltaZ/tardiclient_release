@@ -5,6 +5,6 @@
         "test1",
         "test2"
     ],
-    "windows_path": "windows_setup/test.txt",
+    "windows_path": "windows_setup/test.exe",
     "macos_path": "macos_setup/tardiclient_installer.dmg"
 }
