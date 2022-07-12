@@ -1,10 +1,10 @@
 {
     "name": "tardiclient",
-    "version": "1.0.0",
+	"version": "1.0.1",
     "changelog": [
         "test1",
         "test2"
     ],
-    "windows_path": "windows_setup/tardiclient_installer.exe",
+    "windows_path": "windows_setup/test.txt",
     "macos_path": "macos_setup/tardiclient_installer.dmg"
 }
