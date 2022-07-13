@@ -2,8 +2,8 @@
     "name": "tardiclient",
 	"version": "1.0.1",
     "changelog": [
-        "test1",
-        "test2"
+        "Feature 1",
+		"Feature 2"
     ],
     "windows_path": "windows_setup/test.exe",
     "macos_path": "macos_setup/tardiclient_installer.dmg"
